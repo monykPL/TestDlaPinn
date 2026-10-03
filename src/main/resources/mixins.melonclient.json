@@ -1,0 +1,28 @@
+{
+  "minVersion": "0.7.11-SNAPSHOT",
+  "required": true,
+  "package": "dev.melonclient.mixins",
+  "refmap": "mixins.melonclient.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "EntityFXMixin",
+    "EntityRendererMixin",
+    "FontRendererMixin",
+    "GuiIngameMenuMixin",
+    "GuiInGameMixin",
+    "GuiMainMenuMixin",
+    "GuiScreenMixin",
+    "ItemRendererMixin",
+    "MinecraftMixin",
+    "ModelBipedMixin",
+    "RendererLivingEntityMixin",
+    "RenderMixin",
+    "RenderManagerMixin",
+    "EffectRendererMixin"
+  ],
+  "mixins": [
+    "GuiUtilsMixin",
+    "InventoryPlayerMixin",
+    "WorldMixin"
+  ]
+}

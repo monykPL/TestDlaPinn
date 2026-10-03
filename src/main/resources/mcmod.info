@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MelonClient",
+  "name": "Melon Client",
+  "description": "A Minecraft PVP and SMP Client",
+  "version": "1.4.1",
+  "mcversion": "1.8.9",
+  "url": "https://modrinth.com/",
+  "updateUrl": "https://github.com/",
+  "authorList": ["QuiteMelony"],
+  "credits": "Made by monykPL and Merofiko",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
